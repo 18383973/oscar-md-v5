@@ -4,10 +4,10 @@ let handler = async (m, { conn }) => {
 
 m.reply(`
 ┌─〔 𝐏𝐞𝐦𝐢𝐥𝐢𝐤 𝐛𝐨𝐭 〕
-├ 𝐉𝐚𝐫𝐨𝐭 𝐨𝐟𝐟𝐜
-├ http://wa.me/6285850539404
-├ 𝐍𝐨𝐦𝐞𝐭 𝐛𝐨𝐭 𝐁𝐲 𝐎𝐬𝐜𝐚𝐫-𝐌𝐝
-├ http://wa.me/6285328754243
+├ Vincentt ?
+├ http://wa.me/6285878258447
+├ 𝐍𝐨𝐦𝐞𝐭 𝐛𝐨𝐭 𝐁𝐲 VinnXD-Botz
+├ http://wa.me/6285600648045
 └────
 ┌─〔 R U N T I M E 〕
 ├ 𝐁𝐨𝐭 𝐀𝐤𝐭𝐢𝐟 𝐒𝐞𝐥𝐚𝐦𝐚
