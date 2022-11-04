@@ -67,7 +67,7 @@ global.socket = {
 
 global.useMulti = false
 
-global.media = 'https://telegra.ph/file/1a432751096d4d399a8c4.jpg'
+global.media = 'https://telegra.ph/file/f421df95cb9fc160ea66b.jpg'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -76,7 +76,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/537edd58e7f8849a7dc50.jpg'
+global.thumbdoc = 'https://telegra.ph/file/f421df95cb9fc160ea66b.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '564588643' // default 10TB
